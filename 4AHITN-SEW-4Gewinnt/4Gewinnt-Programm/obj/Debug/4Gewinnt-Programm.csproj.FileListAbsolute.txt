@@ -1,0 +1,6 @@
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\bin\Debug\4Gewinnt-Programm.exe.config
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\bin\Debug\4Gewinnt-Programm.exe
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\bin\Debug\4Gewinnt-Programm.pdb
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\obj\Debug\4Gewinnt-Programm.csproj.CoreCompileInputs.cache
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\obj\Debug\4Gewinnt-Programm.exe
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\4Gewinnt-Programm\obj\Debug\4Gewinnt-Programm.pdb

@@ -1,0 +1,2 @@
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Baumgartner\source\repos\4AHITN-SEW-4Gewinnt\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
