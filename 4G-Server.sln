@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4G-Server", "4G-Server\4G-Server.csproj", "{2B51F63B-FC45-4696-9970-253ACAA63B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4G", "4G\4G.csproj", "{AD825E9B-E98A-41BE-9F0B-1997BB80E6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B51F63B-FC45-4696-9970-253ACAA63B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B51F63B-FC45-4696-9970-253ACAA63B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B51F63B-FC45-4696-9970-253ACAA63B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B51F63B-FC45-4696-9970-253ACAA63B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD825E9B-E98A-41BE-9F0B-1997BB80E6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD825E9B-E98A-41BE-9F0B-1997BB80E6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD825E9B-E98A-41BE-9F0B-1997BB80E6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD825E9B-E98A-41BE-9F0B-1997BB80E6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA146132-FA2A-443A-81B6-2C9D0FEE89DE}
+	EndGlobalSection
+EndGlobal

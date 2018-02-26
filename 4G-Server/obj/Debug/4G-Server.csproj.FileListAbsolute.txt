@@ -1,0 +1,7 @@
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\bin\Debug\4G-Server.exe.config
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\bin\Debug\4G-Server.exe
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\bin\Debug\4G-Server.pdb
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\obj\Debug\4G-Server.csprojResolveAssemblyReference.cache
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\obj\Debug\4G-Server.csproj.CoreCompileInputs.cache
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\obj\Debug\4G-Server.exe
+C:\Users\Bryan09\source\repos\4G-Server\4G-Server\obj\Debug\4G-Server.pdb
